@@ -93,4 +93,19 @@ This validates both the detection methodology and known chromatin biology.
 ## Reproducibility
 The notebook can be run end-to-end after installing dependencies listed below.
 
+pip install pytrf pyfastx pybedtools biopython pandas numpy matplotlib seaborn
+
+
+---
+
+## Why This Project Matters
+Trinucleotide repeats are implicated in over 40 genetic disorders (e.g., Huntington’s disease, Fragile X syndrome).  
+This analysis demonstrates how **genome architecture and gene density shape repeat landscapes**, offering insight into mutation-prone regions of the human genome.
+
+---
+
+## Author
+Gladys Jacob  
+Data Science | Bioinformatics
+
 
